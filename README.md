@@ -19,7 +19,7 @@
 
 ### 🏆 Core Strengths
 
-**JAVA**, **SPRING BOOT**, **REST APIs**, **MySQL**, **ANGULAR**, **REACT**, **AWS**, **DOCKER**, **CI/CD**, **GIT**, **LINUX**, **Agile**, **TDD**
+**JAVA**, **SPRING BOOT**, **REST APIs**, **MySQL**, **ANGULAR**, **REACT**, **AWS**, **DOCKER**, **CI/CD**, **GIT**, **LINUX**, **AGILE DEVELOPMENT**, **TDD**
 
 ---
 
